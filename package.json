@@ -1,0 +1,24 @@
+{
+  "name": "routerquickreboot",
+  "version": "1.0.0",
+  "description": "A Node.js tool that makes AR-5310 routers reboot 7x faster",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExillustX/routerQuickReboot.git"
+  },
+  "author": "ExillustX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExillustX/routerQuickReboot/issues"
+  },
+  "homepage": "https://github.com/ExillustX/routerQuickReboot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
