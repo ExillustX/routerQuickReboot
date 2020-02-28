@@ -26,7 +26,7 @@ cd routerQuickReboot
 npm install
 ```
 
-- Rename .env.default to .env and fill in your router's IP address, username and password
+- Rename `.env.default` to `.env` and fill in your router's IP address, username and password
 
 - Start the tool:
 ```
