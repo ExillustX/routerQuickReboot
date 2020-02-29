@@ -7,6 +7,8 @@ Normal reboot through the router's control panel: Took 2 minutes and 20 seconds
 A reboot using this tool: Only took 20 seconds
 
 ## How to install
+- Install Node.js and Git Bash
+
 - Download ChromeDriver from https://chromedriver.chromium.org/downloads
 
 - Unzip the file and put `chromedriver.exe` file under `C:\Windows`
