@@ -18,6 +18,9 @@ const quickReboot = async () => {
         inputElement.clear();
         inputElement.sendKeys('30');
         break;
+      default:
+        inputElement.clear();
+        inputElement.sendKeys('30');
     }
     await driver.findElement(webdriver.By.css(submitButtonCss)).click();
     await driver.findElement(webdriver.By.css(submitButtonCss)).click();
